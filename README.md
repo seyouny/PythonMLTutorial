@@ -12,3 +12,4 @@ https://archive.ics.uci.edu/ml/datasets/Student+Performance
 
 * Day 3 - 12/16/20
 Completed linear regression and model training.
+Current technologies used: pandas, numpy, sklearn, matplotlib, pickle
